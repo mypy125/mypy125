@@ -57,5 +57,22 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 
 ---
 
+## 📊 GitHub Statistics
+
+Here are some insights into my GitHub activity and the languages I use:
+
+### Contribution Stats
+![Gor's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mypy125&theme=vue)
+
+### Commit and Activity Stats
+![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mypy125&theme=vue&utcOffset=4)
+![Commit History](https://github-profile-summary-cards.vercel.app/api/cards/commit.svg?username=mypy125&theme=vue)
+
+### Top Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mypy125&theme=vue)
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypy125&theme=vue)
+
+---
+
 ✨ Always open to new challenges and learning opportunities!
 
