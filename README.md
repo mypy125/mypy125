@@ -61,14 +61,8 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 
 ### Contribution Stats
 ![Contribution Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mypy125&theme=github_dark)
-
-### Commit and Activity Stats
+![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypy125&theme=github_dark)
 ![Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mypy125&theme=github_dark)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mypy125&theme=github_dark&utcOffset=4)
-
-### Top Languages
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypy125&theme=github_dark)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mypy125&theme=github_dark)
 
 ---
 
