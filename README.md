@@ -59,20 +59,20 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 
 ## 📊 GitHub Statistics
 
-Here are some insights into my GitHub activity and the languages I use:
-
 ### Contribution Stats
-![Gor's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mypy125&theme=vue)
+![Gor's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mypy125&theme=github_dark)
 
 ### Commit and Activity Stats
-![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mypy125&theme=vue&utcOffset=4)
-![Commit History](https://github-profile-summary-cards.vercel.app/api/cards/commit.svg?username=mypy125&theme=vue)
+![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mypy125&theme=github_dark&utcOffset=4)
+![Commit History](https://github-profile-summary-cards.vercel.app/api/cards/commit.svg?username=mypy125&theme=github_dark)
 
 ### Top Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mypy125&theme=vue)
-![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypy125&theme=vue)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mypy125&theme=github_dark)
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypy125&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mypy125&theme=vue&date_format=M%20j%5B%2C%20Y%5D)
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mypy125&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ---
 
