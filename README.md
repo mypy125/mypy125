@@ -72,6 +72,8 @@ Here are some insights into my GitHub activity and the languages I use:
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mypy125&theme=vue)
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypy125&theme=vue)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mypy125&theme=vue&date_format=M%20j%5B%2C%20Y%5D)
+
 ---
 
 ✨ Always open to new challenges and learning opportunities!
