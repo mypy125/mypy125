@@ -39,6 +39,7 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 
 ### 💼 Current Projects
 - **[Restaurant App (Frontend)](https://github.com/mypy125/Restaurant.am-frontend):** Food ordering app with **React-Redux**, **Axios**, and **Material-UI**.
+- **[ecommerce-multivendor](https://github.com/mypy125/ecommerce-multivendor-backend):** e-commerce platform with functionality divide **Java**, **Spring Boot**, and **PQL**.
 - **[Shop Management System](https://github.com/mypy125/shop):** Inventory and sales management system using **Java**, **Spring Boot**, and **MySQL**.
 
 ---
