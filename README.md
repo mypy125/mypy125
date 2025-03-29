@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gor
 
 ### 🚀 About Me
-I'm a **Back-End Developer** with four years of specialized education in **client-server application development**. I have extensive experience in creating scalable, secure, and efficient solutions. Passionate about problem-solving, learning new technologies, and contributing to impactful projects.
+I'm a **Java Developer** with four years of specialized education in **client-server application development**. I have extensive experience in creating scalable, secure, and efficient solutions. Passionate about problem-solving, learning new technologies, and contributing to impactful projects.
 
 ---
 
@@ -16,7 +16,7 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 #### **Frameworks and Libraries**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,7 +31,7 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 
 #### **Architectural Patterns**
 - SOLID Principles
-- MVC / MVVM
+- MVC / MVP / MVVM etc.
 - Domain-Driven Design (DDD)
 - DAO / Gateway / Proxy
 
@@ -45,7 +45,7 @@ I'm a **Back-End Developer** with four years of specialized education in **clien
 ---
 
 ### 🌟 Achievements
-- Integrated payment systems: **Stripe**, **Idram**, and **easypay**.
+- Integrated payment systems: **Stripe**, **Paypal**, and **etc**.
 - Optimized image loading with **Cloudinary**.
 - Developed and tested features with **JUnit**, **Mockito**, and **MockMvc**.
 
