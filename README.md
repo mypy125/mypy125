@@ -40,12 +40,12 @@ I'm a **Java Developer** with four years of specialized education in **client-se
 ### 💼 Current Projects
 - **[Restaurant App (Frontend)](https://github.com/mypy125/Restaurant.am-frontend):** Food ordering app with **React-Redux**, **Axios**, and **Material-UI**.
 - **[ecommerce-multivendor](https://github.com/mypy125/ecommerce-multivendor-backend):** e-commerce platform with functionality divide **Java**, **Spring Boot**, and **PQL**.
-- **[Shop Management System](https://github.com/mypy125/shop):** Inventory and sales management system using **Java**, **Spring Boot**, and **MySQL**.
+- **[Shop Management System](https://github.com/mypy125/shop-desktop):** application for managing products, stock, and stores.  **Java**, **swing**, **Spring Boot**,**dynamic-SQL_connection**.
 
 ---
 
 ### 🌟 Achievements
-- Integrated payment systems: **Stripe**, **Paypal**, and **etc**.
+- Integrated payment systems: **Stripe**, **Paypal**,**Arca**, **Visa**, **Master** and **etc**.
 - Optimized image loading with **Cloudinary**.
 - Developed and tested features with **JUnit**, **Mockito**, and **MockMvc**.
 
