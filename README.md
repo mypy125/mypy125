@@ -30,7 +30,6 @@ I'm a **Java Developer** with four years of specialized education in **client-se
 
 **Message Brokers & API**  
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-RESTful APIs
 
 **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,13 +44,9 @@ RESTful APIs
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-CI/CD (GitHub Actions)
 
-#### **Architectural Patterns**
-- SOLID Principles
-- MVC / MVP / MVVM etc.
-- Domain-Driven Design (DDD)
-- DAO / Gateway / Proxy
+**Principles & Methodologies**  
+- OOP, SOLID, Design Patterns, Agile/Scrum
 
 ---
 
