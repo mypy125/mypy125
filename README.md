@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gor
 
 ### 🚀 About Me
-I’m a Java engineer with over four years of experience in developing client-server applications. I specialize in building scalable, reliable, and secure solutions. I’m inspired by challenging problems, new technologies, and the opportunity to create products that make a real impact.
+- I’m a Java engineer with over four years of experience in developing client-server applications. I specialize in building scalable, reliable, and secure solutions. I’m inspired by challenging problems, new technologies, and the opportunity to create products that make a real impact.
 ---
 
 ### 🛠️ Tech Stack
