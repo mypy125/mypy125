@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Gor
 
 ### 🚀 About Me
-I'm a **Java Developer** with four years of specialized education in **client-server application development**. I have extensive experience in creating scalable, secure, and efficient solutions. Passionate about problem-solving, learning new technologies, and contributing to impactful projects.
-
+I’m a Java engineer with over four years of experience in developing client-server applications. I specialize in building scalable, reliable, and secure solutions. I’m inspired by challenging problems, new technologies, and the opportunity to create products that make a real impact.
 ---
 
 ### 🛠️ Tech Stack
@@ -53,7 +52,7 @@ I'm a **Java Developer** with four years of specialized education in **client-se
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Principles & Methodologies**  
-- OOP, SOLID, Design Patterns, Agile/Scrum
+- OOP, SOLID, DDD, CQRS, Design Patterns, Agile/Scrum
 
 ---
 
