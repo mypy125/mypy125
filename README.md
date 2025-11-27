@@ -4,6 +4,11 @@
 I'm a passionate **Java Backend Engineer** with over **4 years** of experience in designing and building robust, scalable, and secure client-server applications. I specialize in the Spring ecosystem and microservices architecture. I'm driven by complex challenges, continuous learning, and the opportunity to create products that deliver real value.
 
 ---
+-  Blog : [portfolio-d7od.onrender](https://portfolio-d7od.onrender.com/#blog) | [portfolio-d7od](https://portfolio-d7od.onrender.com)
+
+<br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br>
 
 ### 🛠️ Tech Stack
 
