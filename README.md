@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gor
 
 ### 🚀 About Me
-I'm a passionate **Java Backend Engineer** with over **4 years** of experience in designing and building robust, scalable, and secure client-server applications. I specialize in the Spring ecosystem and microservices architecture. I'm driven by complex challenges, continuous learning, and the opportunity to create products that deliver real value.
+I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> of experience in designing and building robust, scalable, and secure client-server applications. I specialize in the Spring ecosystem and microservices architecture. I'm driven by complex challenges, continuous learning, and the opportunity to create products that deliver real value.
 
 ---
 -  Blog : [welcome.my.blog](https://portfolio-d7od.onrender.com/#blog) | [welcome.my.portfolio](https://portfolio-d7od.onrender.com)
