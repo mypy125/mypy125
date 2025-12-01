@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Gor
-
 I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> of experience in designing and building robust, scalable, and secure client-server applications. I specialize in the Spring ecosystem and microservices architecture. I'm driven by complex challenges, continuous learning, and the opportunity to create products that deliver real value.
 
 ---
@@ -83,8 +82,6 @@ A desktop application for inventory and store management.
 [![GitHub](https://img.shields.io/badge/GitHub-mypy125-181717?style=for-the-badge&logo=github)](https://github.com/mypy125)
 
 ---
-
-## 📊 GitHub Stats
 
 ![Gor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mypy125&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mypy125&layout=compact&theme=github_dark)
