@@ -47,35 +47,6 @@ OOP, SOLID, DDD, Microservices, Design Patterns, Agile/Scrum
 
 ---
 
-### 💼 Highlighted Projects
-
-#### 🍕 [Restaurant App](https://restaurant-frontend-9jwn.onrender.com/)
-A full-stack food ordering application.
-*   **Backend:** Developed a scalable REST API using **Java, Spring Boot, Spring Security (JWT), and Spring Data JPA**.
-*   **Architecture:** Applied **DDD** and **SOLID** principles to create a clean, maintainable codebase.
-*   **Payments:** Integrated multiple payment gateways (**Stripe, PayPal**).
-*   **Performance:** Implemented caching with **Redis** to optimize menu and order data retrieval.
-
-#### 🛒 [E-commerce Multivendor Platform](https://ecommerce-multivendor-frontend-ijkm.onrender.com)
-A multi-vendor e-commerce platform.
-*   **Core:** Built the backend with **Java, Spring Boot, and PostgreSQL**.
-*   **Security:** Implemented role-based access control (**Vendor, Admin, Customer**) using **Spring Security**.
-*   **Media:** Optimized image upload and delivery using **Cloudinary**.
-
-#### 🏪 [Shop Management System](https://github.com/mypy125/shop-desktop)
-A desktop application for inventory and store management.
-*   **Tech Stack:** **Java, Swing, Spring Boot**.
-*   **Data Layer:** Utilized **dynamic SQL** for flexible and complex product and stock queries.
-
----
-
-### 🌟 Key Achievements
-*   Successfully integrated and maintained payment systems (**Stripe, PayPal, Arca**), processing thousands of transactions.
-*   Improved application performance by implementing caching strategies with **Redis** and optimized image handling with **Cloudinary**.
-*   Enhanced system resilience by incorporating the **Circuit Breaker pattern** using **Resilience4j**.
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gor%20Mkhitaryan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gor-mk/)
 [![Email](https://img.shields.io/badge/Email-gor1990.mkhitatryan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gor1990.mkhitatryan@gmail.com)
