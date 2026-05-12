@@ -54,8 +54,9 @@ OOP, SOLID, DDD, Microservices, Design Patterns, Agile/Scrum
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mypy125&show_icons=true&theme=radical&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mypy125&layout=compact&theme=radical&hide_border=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mypy125&show_icons=true&theme=radical&hide_border=true)](https://github.com/mypy125)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mypy125&layout=compact&theme=radical&hide_border=true)](https://github.com/mypy125)
 
 ---
 
