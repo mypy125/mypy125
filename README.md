@@ -54,8 +54,8 @@ OOP, SOLID, DDD, Microservices, Design Patterns, Agile/Scrum
 
 ---
 
-![Gor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mypy125&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mypy125&layout=compact&theme=github_dark)
+![![stats](https://github-readme-stats.vercel.app/api?username=mypy125&show_icons=true&theme=radical&hide_border=true)](https://github.com/mypy125)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mypy125&layout=compact&theme=radical&hide_border=true)](https://github.com/mypy125)
 
 ---
 
