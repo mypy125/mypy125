@@ -44,7 +44,7 @@ I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### **⚙️ Principles & Methodologies**
-![OOP, SOLID, DDD, CQRS, Microservices, Design Patterns, Agile/Scrum](https://img.shields.io/badge/OOP, SOLID, DDD, CQRS, Microservices, Design Patterns, Agile/Scrum-007396?style=for-the-badge&logo=java&logoColor=white)
+![OOP | SOLID | DDD | CQRS | Microservices | Design Patterns | Agile Scrum](https://img.shields.io/badge/OOP%20%7C%20SOLID%20%7C%20DDD%20%7C%20CQRS%20%7C%20Microservices%20%7C%20Design%20Patterns%20%7C%20Agile%20Scrum-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
