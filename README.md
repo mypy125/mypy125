@@ -10,7 +10,7 @@ I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https:
 
 
 #### **💻 Backend & Core**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java & JVM](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
@@ -44,8 +44,7 @@ I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### **⚙️ Principles & Methodologies**
-OOP, SOLID, DDD, Microservices, Design Patterns, Agile/Scrum
-
+![OOP, SOLID, DDD, CQRS, Microservices, Design Patterns, Agile/Scrum](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ---
 
 ### 📫 Let's Connect
