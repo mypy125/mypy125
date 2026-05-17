@@ -10,7 +10,7 @@ I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https:
 
 
 #### **💻 Backend & Core**
-![Java & JVM](https://img.shields.io/badge/Java_&_JVM-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java & JVM](https://img.shields.io/badge/Java_&_JVM-FF6600?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
