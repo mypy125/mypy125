@@ -27,6 +27,7 @@ I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### **🗄️ Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,7 +45,7 @@ I'm a passionate **Java Backend Engineer** with over **4 years**<img src="https:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### **⚙️ Principles & Methodologies**
-![OOP | SOLID | DDD | CQRS | Microservices | Design Patterns | Agile Scrum](https://img.shields.io/badge/OOP%20%7C%20SOLID%20%7C%20DDD%20%7C%20CQRS%20%7C%20Microservices%20%7C%20Design%20Patterns%20%7C%20Agile%20Scrum-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP | SOLID | DDD | CQRS | Microservices | Design Patterns | Agile Scrum | BFF](https://img.shields.io/badge/OOP%20%7C%20SOLID%20%7C%20DDD%20%7C%20CQRS%20%7C%20Microservices%20%7C%20Design%20Patterns%20%7C%20Agile%20Scrum%20%7C%20BFF-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
